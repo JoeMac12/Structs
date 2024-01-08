@@ -8,7 +8,16 @@ namespace Structs
 {
     internal class Program
     {
-        static void Main(string[] args)
+
+        // Unity example
+
+    struct vector3
+    {
+        public float x;
+        public float y;
+        public float z;
+    }
+    static void Main(string[] args)
         {
             Console.WriteLine("Struts");
             Console.WriteLine();
