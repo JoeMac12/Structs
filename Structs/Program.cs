@@ -10,6 +10,12 @@ namespace Structs
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Struts");
+            Console.WriteLine();
+
+            Console.WriteLine("Press any key to exit the program");
+
+            Console.ReadKey(true);
         }
     }
 }
